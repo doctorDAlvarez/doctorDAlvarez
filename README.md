@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Alvarez</h1>
-<h3 align="center">An obsessive resolver, perfectionist and passionate!</h3>
+<h3 align="center">A fierce software developer</h3>
 
 <p align="left"> <a href="https://twitter.com/doctordalvarez" target="blank"><img src="https://img.shields.io/twitter/follow/doctordalvarez?logo=twitter&style=for-the-badge" alt="doctordalvarez" /></a> </p>
 
