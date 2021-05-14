@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on The #SAFE project
 
-- 🌱 I’m currently learning AWS. React Always. ReactConf fan! 
+- 🌱 I’m currently learning AWS. React hooks Always! 
 
 - 👯 I’m looking to collaborate on HealthCare industry projects! 
 
