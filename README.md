@@ -1,6 +1,7 @@
+![mike](https://user-images.githubusercontent.com/66154743/118251633-37348580-b47e-11eb-83a5-d718642f77a6.jpg)
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/doctorDAlvarez/doctorDAlvarez/blob/main/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg" alt="cover" />
-</div>
+<!-- <img width="100%" height = "250px" src="https://github.com/doctorDAlvarez/doctorDAlvarez/blob/main/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg" alt="cover" />
+</div> -->
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
