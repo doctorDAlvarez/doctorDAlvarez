@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on The <a href="https://www.safecloud.live">#SAFE project</a>
 
-- 🌱 I’m currently learning AWS. React hooks Always! 
+- 🌱 I’m currently learning AWS and hooky react always! 
 
 - 👯 I’m looking to collaborate on HealthCare industry projects! 
 
