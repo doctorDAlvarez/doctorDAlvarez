@@ -21,11 +21,9 @@
 
 - 🌱 I’m currently learning AWS.
 
-- 🌱 I’m currently loving react-hooks!
-
 - 👯 I’m looking to collaborate on HealthCare industry projects! (with react)
 
-- 💬 Talk to me about React-hooks, JavaScript, Python, Freelancing Opportunites, Open Source and don't forget react! 
+- 💬 Talk to me about React, JavaScript, Python, Freelancing Opportunites, Open Source! 
 
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
