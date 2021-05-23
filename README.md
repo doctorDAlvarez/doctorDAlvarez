@@ -19,9 +19,9 @@
 
 - 🔭 I’m currently working on The <a href="https://www.safecloud.live">#SAFE project</a>
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and web development.
 
-- 👯 I’m looking to collaborate on HealthCare industry projects! (with react)
+- 👯 I’m looking to collaborate on HealthCare industry projects!
 
 - 💬 Talk to me about React, Python, Freelancing Opportunites, Open Source! 
 
