@@ -1,6 +1,6 @@
 ![2482080](https://user-images.githubusercontent.com/66154743/118251857-7bc02100-b47e-11eb-9179-7c14a60b82e1.jpg)
 
-<!-- <img width="60%" height = "60%" src="https://github.com/doctorDAlvarez/doctorDAlvarez/blob/main/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg" alt="cover" />
+<!-- <img width="40%" height = "40%" src="https://github.com/doctorDAlvarez/doctorDAlvarez/blob/main/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg" alt="cover" />
 </div> -->
 
 <h1> Hello Fellow < Developers /> </h1>
